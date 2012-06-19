@@ -1,0 +1,3 @@
+[submodule "Tor"]
+	path = Tor
+	url = git@github.com:pettter/jtorchat-Tor.git
